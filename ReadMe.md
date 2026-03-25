@@ -47,6 +47,8 @@ Fork 本仓库到你的 GitHub 账户，然后克隆到本地。
 [方向]-[会议/期刊名]-[年份]-[论文名(完整的名字而不是缩写)].md
 
 示例: Memory-NeurIPS-2023-Retrieval-Augmented-Generation.md
+
+研究方向请参考 Research Direction.md ，倘若是其中没有的，请手动添加，并在命名时使用新增的方向名称。
 ```
 ### 4. 填写内容
 ```
