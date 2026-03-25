@@ -66,4 +66,4 @@ Fork 本仓库到你的 GitHub 账户，然后克隆到本地。
 
 ## 🧠 关于我们
 
-本仓库由 NWPU 人机物融合智能计算实验室 Social-AI-Group 维护，用于组内学术交流与协作。
+本仓库由 NWPU Crowd-HMT-Lab Social-AI-Group 维护，用于组内学术交流与协作。
