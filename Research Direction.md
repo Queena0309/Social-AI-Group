@@ -32,3 +32,7 @@
 - EMNLP-2025-Towards Personalized Conversational Sales Agents
 - TKDE-2025-A Causal-Based Attribute Selection Strategy for Conversational Recommender Systems
 - WWW-2025-Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems
+
+### SN：Social Network
+
+- AAAI-2024-Adversarial Socialbots Modeling Based on Structural Information Principles
