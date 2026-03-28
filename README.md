@@ -4,13 +4,9 @@
 
 ```
 Social-AI-Group/
-
 ├── image/              # 存放论文相关的图片、图表等
-
 ├── paper/              # 论文摘要（main）
-
 ├── Example.md          # 论文摘要的撰写范例
-
 └── ReadMe.md           # 本说明文件
 ```
 
