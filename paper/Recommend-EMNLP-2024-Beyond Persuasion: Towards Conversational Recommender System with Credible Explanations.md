@@ -1,5 +1,5 @@
 # Recommend-EMNLP-2024-Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations
-*论文下载地址：https://aclanthology.org/2024.emnlp-main.4264/*
+*论文下载地址：https://aclanthology.org/2024.findings-emnlp.247*
 
 *代码是否开源：是 https://github.com/mumen798/PC-CRS*
 

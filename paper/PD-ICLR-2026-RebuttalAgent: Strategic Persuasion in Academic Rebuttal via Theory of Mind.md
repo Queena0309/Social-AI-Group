@@ -1,5 +1,5 @@
 # PD-ICLR-2026-RebuttalAgent: Strategic Persuasion in Academic Rebuttal via Theory of Mind
-*论文下载地址：https://arxiv.org/abs/2601.15713*
+*论文下载地址：https://arxiv.org/abs/2601.15715*
 
 *代码是否开源：是 https://github.com/Zhitao-He/RebuttalAgent*
 
