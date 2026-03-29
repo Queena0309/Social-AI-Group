@@ -74,6 +74,16 @@ Social-AI-Group/
 | --- | --- | --- | --- | --- |
 | 2024 | AAAI | Adversarial Socialbots Modeling Based on Structural Information Principles | [查看](https://ojs.aaai.org/index.php/AAAI/article/view/27793) | [代码](https://github.com/SELGroup/SIASM) |
 
+### RLHF：Reinforcement Learning from Human Feedback
+| 年份 | 会议/期刊 | 论文 | 链接 | 代码 |
+| --- | --- | --- | --- | --- |
+| 2023 | NIPS | Direct Preference Optimization: Your Language Model is Secretly a Reward Model | [查看](https://arxiv.org/abs/2305.18290) | - |
+| 2024 | ICML | RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feed | [查看](https://arxiv.org/abs/2309.00267v3) | - |
+| 2024 | arXiv | DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models | [查看](https://arxiv.org/abs/2402.03300v3) | [代码](https://github.com/deepseek-ai/DeepSeek-Math) |
+| 2025 | arXiv | Group Sequence Policy Optimization | [查看](https://arxiv.org/abs/2507.18071v2) | - |
+| 2025 | arXiv | DeepSeek-V3 Technical Report | [查看](https://arxiv.org/abs/2412.19437v2) | [代码](https://github.com/deepseek-ai/DeepSeek-V3) |
+| 2025 | arXiv | DCPO: Dynamic Clipping Policy Optimization | [查看](https://arxiv.org/abs/2509.02333v2) | [代码](https://github.com/lime-RL/DCPO) |
+
 
 ## 📌 重要说明
 
