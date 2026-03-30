@@ -83,44 +83,66 @@ Social-AI-Group/
 | 2025 | arXiv | DeepSeek-V3 Technical Report | [查看](https://arxiv.org/abs/2412.19437v2) | [摘要](paper/RLHF-arXiv-2025-DeepSeek-V3%20Technical%20Report.md) | [代码](https://github.com/deepseek-ai/DeepSeek-V3) |
 | 2025 | arXiv | Group Sequence Policy Optimization | [查看](https://arxiv.org/abs/2507.18071v2) | [摘要](paper/RLHF-arXiv-2025-Group%20Sequence%20Policy%20Optimization.md) | - |
 
-## 📌 重要说明参考 Example.md，了解标准的撰写格式和要求。
+## 📌 重要说明
+
+- 参考 Example.md，了解标准的撰写格式和要求。
 
 - 论文摘要请保证内容精炼、准确，贴合原文核心，便于组内成员快速获取关键信息。
 
 ---
 
 ## ✍️ 如何贡献
-
 我们鼓励所有成员积极贡献自己阅读的论文摘要，请严格遵循以下步骤：
 
 ### 1. Fork & Clone
-```
 Fork 本仓库到你的 GitHub 账户，然后克隆到本地。
 ```
-### 2. 创建新文件
+git clone https://github.com/你的用户名/Social-AI-Group.git && cd Social-AI-Group
 ```
-在仓库 paper/ 目录下创建一个新的 Markdown 文件（.md）。
-在 image/ 目录下存放该论文相关的图片（如框架图、实验结果图等），并在 Markdown 文件中引用。
-图片的命名格式为：[年月日]-[编号（从01开始，多的以此类推）].png，例如：2026031601.png。
+
+### 2. 添加原始仓库为 upstream
+```
+git remote add upstream https://github.com/lucianma05-create/Social-AI-Group.git
+```
+
+### 3. 每次准备撰写新摘要前，请先同步主分支并创建一个独立分支：
+1)  切换回主分支并拉取上游最新代码
+```
+git checkout main
+git pull upstream main
+```
+2) 创建并切换到一个新分支 (分支名建议反映论文内容)
+```
+git checkout -b 分支名
 ```
 ### 3. 命名规范
 ```
-文件名请严格按照以下格式命名，以便于检索和管理：
+\paper 下的文件名请严格按照以下格式命名，以便于检索和管理：
 [方向]-[会议/期刊名]-[年份]-[论文名(完整的名字而不是缩写)].md
 示例: Memory-NeurIPS-2023-Retrieval-Augmented-Generation.md
-研究方向请参考 README.md ，倘若是其中没有的，请手动添加，并在命名时使用新增的方向名称。
+研究方向请参考 README.md, 倘若是其中没有的，请手动添加，并在命名时使用新增的方向名称。
+\image 下的文件命名为 [年]-[月]-[日]-[编号]-[姓名缩写].png
+示例：2024010101mmh.png
 ```
 ### 4. 填写内容
-```
-参照 Example.md 中的模板，填写论文的各项信息，确保内容精炼、准确。
-```
+a. 参照 Example.md 中的模板，填写论文的各项信息，确保内容精炼、准确。 
+
+b. 或者可以使用我们专门开发的 [Auto-Summary](https://github.com/lucianma05-create/Auto-Summary), 请在自动化生成后进行必要的人工校对和修改。
+
 ### 5. 修改 README.md
+参照 README.md 中的表格，增加新论文的链接、摘要和代码；可以用以下提示词提示codex或copilot进行自动化填充：
 ```
-参照 README.md 中的表格，增加新论文的链接、摘要和代码。
+请根据 paper 目录新增的 .md 文件，按 README.md 里现有表格格式补全相应方向的行，填 链接、摘要、代码 字段，缺失用 - 
 ```
-### 6. 提交更改
+### 6. 提交、同步与推送
+1) 暂存并提交本地更改
 ```
-将新文件添加到暂存区，提交并推送到你的远程仓库。
+git add .
+git commit -m "你的提交信息，例如：Add summary for [论文名]"
+```
+2)  推送当前功能分支到你个人的 GitHub (origin)
+```
+git push origin 分支名
 ```
 ### 7. 发起 Pull Request
 ```
