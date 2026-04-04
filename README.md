@@ -24,6 +24,9 @@ Social-AI-Group/
 ### DWM：Dialogue World Model
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
+| 2006 | KER | A Survey of Statistical User Simulation Techniques for RL Dialogue Management | [查看](https://doi.org/10.1017/S0269888906000944) | [摘要](paper/DMW-KER-2006-A-Survey-of-Statistical-User-Simulation-Techniques-for-RL-Dialogue-Management.md) | - |
+| 2025 | COLING | MCA-Model-Based Causal RL for Efficient Dialogue Policy | [查看](https://aclanthology.org/2025.coling-main.490/) | [摘要](paper/DWM-COLING-2025-MCA-Model-Based-Causal-RL-for-Efficient-Dialogue-Policy.md) | - |
+| 2025 | NeurIPS | World Models Should Prioritize the Unification of Physical and Social Dynamics | [查看](https://arxiv.org/) | [摘要](paper/DWM-NeurIPS-2025-World-Models-Should-Prioritize-the-Unification-of-Physical-and-Social-Dynamics.md) | - |
 | 2025 | arxiv | Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling | [查看](https://arxiv.org/abs/2508.16876) | [摘要](paper/DWM-arxiv-2025-Dream%20to%20Chat%3A%20Model-based%20Reinforcement%20Learning%20on%20Dialogues%20with%20User%20Belief%20Modeling.md) | - |
 | 2026 | arXiv | Better LLM Reasoning via Dual-Play | [查看](https://arxiv.org/abs/2511.11881v3) | [摘要](paper/DWM-arXiv-2026-Better%20LLM%20Reasoning%20via%20Dual-Play.md) | - |
 ### Data：Benchmark for LLM Agents
@@ -33,6 +36,7 @@ Social-AI-Group/
 ### ED：Empathetic Dialogue Systems
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
 | --- | --- | --- | --- | --- | --- |
+| 2019 | COBS | Theory of Mind as Inverse Reinforcement Learning | [查看](https://arxiv.org/) | [摘要](paper/ED-COBS-2019-Theory-of-Mind-as-Inverse-Reinforcement-Learning.md.md) | - |
 | 2023 | arXiv | CharacterChat- Learning towards Conversational AI with Personalized Social Support | [查看](https://arxiv.org/abs/2308.10278) | [摘要](paper/ED-arXiv-2023-CharacterChat-%20Learning%20towards%20Conversational%20AI%20with%20Personalized%20Social%20Support.md) | [代码](https://github.com/morecry/CharacterChat) |
 | 2023 | EMNLP | SoulChat- Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi | [查看](https://aclanthology.org/2023.findings-emnlp.83.pdf) | [摘要](paper/ED-EMNLP-2023-SoulChat-%20Improving%20LLMs%E2%80%99%20Empathy%2C%20Listening%2C%20and%20Comfort%20Abilities%20through%20Fine-tuning%20with%20Multi.md) | [代码](https://github.com/scutcyr/SoulChat) |
 | 2025 | arXiv | Echo-N1- Affective RL Frontier | [查看](https://arxiv.org/abs/2512.00344v1) | [摘要](paper/ED-arXiv-2025-Echo-N1-%20Affective%20RL%20Frontier.md) | - |
@@ -92,6 +96,12 @@ Social-AI-Group/
 | 2025 | arXiv | DCPO- Dynamic Clipping Policy Optimization | [查看](https://arxiv.org/abs/2509.02333v2) | [摘要](paper/RLHF-arXiv-2025-DCPO-%20Dynamic%20Clipping%20Policy%20Optimization.md) | [代码](https://github.com/lime-RL/DCPO) |
 | 2025 | arXiv | DeepSeek-V3 Technical Report | [查看](https://arxiv.org/abs/2412.19437v2) | [摘要](paper/RLHF-arXiv-2025-DeepSeek-V3%20Technical%20Report.md) | [代码](https://github.com/deepseek-ai/DeepSeek-V3) |
 | 2025 | arXiv | Group Sequence Policy Optimization | [查看](https://arxiv.org/abs/2507.18071v2) | [摘要](paper/RLHF-arXiv-2025-Group%20Sequence%20Policy%20Optimization.md) | - |
+
+### ToM：Theory of Mind
+| 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
+| --- | --- | --- | --- | --- | --- |
+| 2026 | EACL | Let's Put Ourselves in Sally's Shoes: Shoes of Others Prefilling Improves Theory of Mind in LLMs | [查看](https://aclanthology.org/2026.findings-eacl.6/) | [摘要](paper/ToM-EACL-2026-Lets-Put-Ourselves-in-Sallys-Shoes-Shoes-of-Others-Prefilling-Improves-Theory-of-Mind-in-LLMs.md) | - |
+| 2025 | arXiv | ToM-RL: Reinforcement Learning Unlocks Theory of Mind in Small LLMs | [查看](https://arxiv.org/abs/2504.01698) | [摘要](paper/ToM-arXiv-2025-ToM-RL-Reinforcement-Learning-Unlocks-Theory-of-Mind-in-Small-LLMs.md) | - |
 
 ## 📌 重要说明
 
