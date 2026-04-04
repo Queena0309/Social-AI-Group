@@ -19,7 +19,7 @@ Social-AI-Group/
 
 ---
 
-## 📁 现有方向及文章
+## 📚 现有方向及文章
 
 ### DWM：Dialogue World Model
 | 年份 | 会议/期刊 | 论文 | 链接 | 摘要 | 代码 |
