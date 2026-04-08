@@ -1,5 +1,5 @@
 # DWM-NeurIPS-2025-World-Models-Should-Prioritize-the-Unification-of-Physical-and-Social-Dynamics.md
-*论文下载地址（可选）：[https://arxiv.org/]*
+*论文下载地址（可选）：[https://arxiv.org/pdf/2510.21219/]*
 *代码是否开源：否*
 *分享人：马明晖*
 
