@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 2006 | KER | A Survey of Statistical User Simulation Techniques for RL Dialogue Management | [查看](https://doi.org/10.1017/S0269888906000944) | [摘要](paper/DMW-KER-2006-A-Survey-of-Statistical-User-Simulation-Techniques-for-RL-Dialogue-Management.md) | - |
 | 2025 | COLING | MCA-Model-Based Causal RL for Efficient Dialogue Policy | [查看](https://aclanthology.org/2025.coling-main.490/) | [摘要](paper/DWM-COLING-2025-MCA-Model-Based-Causal-RL-for-Efficient-Dialogue-Policy.md) | - |
-| 2025 | NeurIPS | World Models Should Prioritize the Unification of Physical and Social Dynamics | [查看](https://arxiv.org/) | [摘要](paper/DWM-NeurIPS-2025-World-Models-Should-Prioritize-the-Unification-of-Physical-and-Social-Dynamics.md) | - |
+| 2025 | NeurIPS | World Models Should Prioritize the Unification of Physical and Social Dynamics | [查看](https://arxiv.org/pdf/2510.21219/) | [摘要](paper/DWM-NeurIPS-2025-World-Models-Should-Prioritize-the-Unification-of-Physical-and-Social-Dynamics.md) | - |
 | 2025 | arxiv | Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling | [查看](https://arxiv.org/abs/2508.16876) | [摘要](paper/DWM-arxiv-2025-Dream%20to%20Chat%3A%20Model-based%20Reinforcement%20Learning%20on%20Dialogues%20with%20User%20Belief%20Modeling.md) | - |
 | 2025 | arxiv | Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments | [查看](https://arxiv.org/abs/2506.21497v1) | [摘要](paper/DWM-ARXIV-2025-Enhancing-User-Engagement-in-Socially-Driven-Dialogue-through-Interactive-LLM-Alignments.md) | - |
 | 2026 | arXiv | Better LLM Reasoning via Dual-Play | [查看](https://arxiv.org/abs/2511.11881v3) | [摘要](paper/DWM-arXiv-2026-Better%20LLM%20Reasoning%20via%20Dual-Play.md) | - |
