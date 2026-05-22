@@ -4,7 +4,7 @@
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome)
 [![License](https://img.shields.io/badge/License-Apache%202.0-red?style=for-the-badge&logo=apache&logoColor=white)](http://www.apache.org/licenses/LICENSE-2.0)
-[![Papers](https://img.shields.io/github/directory-file-count/lucianma05-create/Social-AI-Group/paper?type=file&extension=md&label=Papers&color=2ea44f&style=for-the-badge)]
+[![Papers](https://img.shields.io/github/directory-file-count/lucianma05-create/Social-AI-Group/paper?type=file&extension=md&label=Papers&color=2ea44f&style=for-the-badge)](paper)
 [![Views](https://hits.sh/github.com/lucianma05-create/Social-AI-Group.svg?label=Views&color=orange&style=for-the-badge)](https://hits.sh/github.com/lucianma05-create/Social-AI-Group/)
 </div>
 
